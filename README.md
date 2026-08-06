@@ -70,10 +70,6 @@ Through this project, I gained practical experience with:
 
 
 
-## 🎥 Project Demo
-
-📹 [Watch Demo Video](Demo.mp4)
-
 ## 👩‍💻 Author
 
 **Devisushma Bommisetti**
