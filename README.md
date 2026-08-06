@@ -62,19 +62,23 @@ Through this project, I gained practical experience with:
 * Optimize performance
 * Enhance accessibility
 
-## 📸 Screenshots
+## 📸 Project Screenshots
 
-Add screenshots of your project here.
+### 🏠 Home Page
 
-Example:
+![Home Page](screenshots/home.png)
 
-```
-screenshots/homepage.png
-```
+### 🧭 About Page
+
+![Navigation Bar](screenshot/about.png)
+
+### 📱 Services Page
+
+![Responsive Design](screenshots/services.png)
 
 ## 👩‍💻 Author
 
-**Ribka Polimati**
+**Devisushma Bommisetti**
 
 * B.Tech – Computer Science and Engineering
 * Passionate about Web Development and Python Programming
