@@ -66,15 +66,15 @@ Through this project, I gained practical experience with:
 
 ### 🏠 Home Page
 
-![Home Page](home.png)
+![Home Page](Home.png)
 
 ### 🧭 About Page
 
-![About Page](about.png)
+![About Page](About.png)
 
 ### 📱 Services Page
 
-![Services Page](services.png)
+![Services Page](Services.png)
 
 ## 👩‍💻 Author
 
