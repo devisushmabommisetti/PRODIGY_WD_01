@@ -66,15 +66,15 @@ Through this project, I gained practical experience with:
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](home.png)
 
 ### 🧭 About Page
 
-![Navigation Bar](screenshot/about.png)
+![About Page](about.png)
 
 ### 📱 Services Page
 
-![Responsive Design](screenshots/services.png)
+![Services Page](services.png)
 
 ## 👩‍💻 Author
 
