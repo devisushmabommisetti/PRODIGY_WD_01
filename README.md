@@ -1,0 +1,84 @@
+# 🌐 Responsive Webpage Project
+
+## 📌 Project Overview
+
+This project is a responsive and interactive webpage developed using **HTML**, **CSS**, and **JavaScript**. It demonstrates the fundamentals of front-end web development, including page structure, styling, responsive design, and user interaction.
+
+## ✨ Features
+
+* Responsive navigation bar
+* Interactive hover effects
+* Scroll-based navigation color change
+* Clean and modern user interface
+* Mobile-friendly responsive layout
+* Well-organized and readable code
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+
+## 📂 Project Structure
+
+```text
+Webpage-Project/
+│── index.html
+│── style.css
+│── script.js
+│── images/
+│── README.md
+```
+
+## 🚀 Getting Started
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/your-username/Webpage-Project.git
+```
+
+2. Open the project folder.
+
+3. Double-click **index.html** or open it in your preferred web browser.
+
+## 📖 What I Learned
+
+Through this project, I gained practical experience with:
+
+* HTML page structure
+* CSS styling and layouts
+* Flexbox
+* Responsive web design
+* JavaScript DOM manipulation
+* Event handling
+* Creating interactive navigation menus
+
+## 🎯 Future Improvements
+
+* Add a dark mode toggle
+* Improve animations and transitions
+* Add additional web pages
+* Optimize performance
+* Enhance accessibility
+
+## 📸 Screenshots
+
+Add screenshots of your project here.
+
+Example:
+
+```
+screenshots/homepage.png
+```
+
+## 👩‍💻 Author
+
+**Ribka Polimati**
+
+* B.Tech – Computer Science and Engineering
+* Passionate about Web Development and Python Programming
+
+## 📄 License
+
+This project is created for learning and educational purposes. Feel free to use and modify it for your own practice.
