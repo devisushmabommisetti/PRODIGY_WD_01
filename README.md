@@ -4,6 +4,10 @@
 
 This project is a responsive and interactive webpage developed using **HTML**, **CSS**, and **JavaScript**. It demonstrates the fundamentals of front-end web development, including page structure, styling, responsive design, and user interaction.
 
+## 🚀 Live Demo
+
+👉 [View Live Project](https://devisushmabommisetti.github.io/PRODIGY_WD_01/)
+
 ## ✨ Features
 
 * Responsive navigation bar
