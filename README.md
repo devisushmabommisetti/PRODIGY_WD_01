@@ -30,18 +30,6 @@ Webpage-Project/
 │── README.md
 ```
 
-## 🚀 Getting Started
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/Webpage-Project.git
-```
-
-2. Open the project folder.
-
-3. Double-click **index.html** or open it in your preferred web browser.
-
 ## 📖 What I Learned
 
 Through this project, I gained practical experience with:
